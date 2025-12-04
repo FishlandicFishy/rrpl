@@ -6,7 +6,7 @@ Recursive Radical Packing Language (RRPL) is a proposal for a method of describi
 
 **5000+** Traditional Chinese Characters and radicals are currently described using this language. You can download a .json file containing all of them (and unicode mapping) here: [dist/min-trad.json](./dist/min-trad.json)
 
-Check out Chinese character & radical visualizations made with RRPL [here](https://chinese-radical-vis.glitch.me) and [here](https://cjk-morph.glitch.me).
+Check out Chinese character & radical visualizations made with RRPL (DEFUNCT LINK) and (DEFUNCT LINK).
 
 ## Syntax
 
